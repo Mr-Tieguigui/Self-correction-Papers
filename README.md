@@ -52,7 +52,7 @@
 
 
 ## Methods
-()
+
 | Method  | Category | Link | Task | Dataset | Model | Open address | Citation|
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
 | Intrinsic Method | - | - | - | - | - | - |
