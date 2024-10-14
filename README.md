@@ -52,8 +52,34 @@
 
 
 ## Methods
-| Method  | Description | Link |
-| ------------- | ------------- | -------------|
+()
+| Method  | Category | Link | Task | Dataset | Model | Open address | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| - |Intrinsic| - | - | - | - | - |
+| CoVe (2023) | Intrinsic | [arXiv](https://arxiv.org/abs/2309.11495) | - | - | - | - |
+| CAI Revisions (2022) | Intrinsic | [arXiv](https://arxiv.org/abs/2212.08073) | - | - | - | - |
+| Self-Refine (2023) | Intrinsic | [arXiv](https://arxiv.org/abs/2303.17651) | - | - | - | - |
+| RCI (2023) | Oracle | [arXiv](https://arxiv.org/abs/2303.17491) | - | - | - | - |
+| Reflexion.1 (2023) | Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - |
+| ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |
+| - |External| - |
+| Reflexion.2 (2023) | Fair-Asym | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - |
+| Reflexion.3 (2023) | Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - |
+| Self-Debug (2024) | Fair-Asym | [arXiv](https://arxiv.org/abs/2304.05128) | - | - | - | - |
+| CRITIC (2024) | Fair-Asym | [arXiv](https://arxiv.org/abs/2305.11738) | - | - | - | - |
+| RARR (2023) | UnfairAsym | [arXiv](https://arxiv.org/abs/2210.08726) | - | - | - | - |
+| ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |
+| - | Fine-tuning| - |
+| Self-Critique (2022) | Fair-Asym | [arXiv](https://arxiv.org/abs/2206.05802) | - | - | - | - |
+| SelFee (2023) | Fair-Asym | [blogpost](https://lklab.kaist.ac.kr/SelFee/) | - | - | - | - |
+| Baldur (2023) | Fair-Asym | [arXiv](https://arxiv.org/abs/2303.04910) | - | - | - | - |
+| REFINER (2023) | Cross-Model | [arXiv](https://arxiv.org/abs/2304.01904) | - | - | - | - |
+| RL4F (2023) | Cross-Model | [arXiv](https://arxiv.org/abs/2305.08844) | - | - | - | - |
+| Self-Correction (2023) | Cross-Model | [arXiv](https://arxiv.org/abs/2211.00053) | - | - | - | - |
+| ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |
+| Cannot (2023) | Intrinsic | [arXiv](https://arxiv.org/abs/2310.01798) | - | - | - | - |
+
+
 
 
 
@@ -67,6 +93,44 @@
 ## Task
 | Task  | Description | Link |
 | ------------- | ------------- | -------------|
+| Reasoning | | |
+| Knowledge | | |
+| Context-based Generation| | |
+| Oracle information| | |
+| Others| | |
+
+
+
+
+
+
+
+## Model Automatically Correction 
+
+### Error types of LLMs to correct
+- `Hallucination`: LLMs often hallucinate by making up facts or citing sources that do not exist.
+- `Unfaithful Reasoning`: LLMs occasionally make unfaithful reasoning, i.e., the derived conclusion does not follow the previously generated reasoning chain.
+- `Toxic, Biased, and Harmful Content`: LLMs have been observed to occasionally generate content that is toxic, biased, or harmful due to biases present in the training data.
+
+
+### Source of the Feedback
+- `Intrinsic Self-Feedback`: The LLM can act as its own feedback provider by iteratively assessing and refining its generated outputs until it meets a certain standard.
+- `External Feedback`: External tools, External knowledge, Oracle information
+
+
+### Format of the Feedback
+- `Scalar Value Feedback`:
+- `Natural Language Feedback`: 
+
+
+### Timing of correct
+- `Training-time Correction`: rectify a flawed model during training.
+- `Generation-time Correction`: It utilizes automated feedback to guide the LLM to correct errors during generation.
+- `Post-hoc Correction`: It refines the model output after it has been generated, without updating the model parameters (Self-Correction, Correction with External Feedback, and Multi-Agent Debate).
+
+### Self-Correction
+
+
 
 
 
