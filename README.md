@@ -31,7 +31,7 @@
 | Paper  | Description | Link |
 | ------------- | ------------- | -------------|
 | From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging (SJTU 2024) | | [arXiv](https://arxiv.org/pdf/2410.01215) |
-| Generating Sequences by Learning to Self-Correct (AI2 2023) | | [ICLR] |
+| Generating Sequences by Learning to Self-Correct (AI2 2023) | | [ICLR](https://arxiv.org/abs/2211.00053) |
 | The Capacity for Moral Self-Correction in Large Language Models (Anthropic 2024) | | [arXiv](https://arxiv.org/abs/2302.07459) |
 
 ## Meta Evaluation
