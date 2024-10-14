@@ -56,26 +56,26 @@
 | Method  | Category | Link | Task | Dataset | Model | Open address | Citation|
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
 | Intrinsic Method | - | - | - | - | - | - |
-| CoVe (2023) | Intrinsic | [arXiv](https://arxiv.org/abs/2309.11495) | - | - | - | - | - |
-| CAI Revisions (2022) | Intrinsic | [arXiv](https://arxiv.org/abs/2212.08073) | - | - | - | - | - |
-| Self-Refine (2023) | Intrinsic | [arXiv](https://arxiv.org/abs/2303.17651) | - | - | - | - | - |
-| RCI (2023) | Oracle | [arXiv](https://arxiv.org/abs/2303.17491) | - | - | - | - | - |
-| Reflexion.1 (2023) | Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - | - |
+| CoVe (2023) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2309.11495) | - | - | - | - | - |
+| CAI Revisions (2022) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2212.08073) | - | - | - | - | - |
+| Self-Refine (2023) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2303.17651) | - | - | - | - | - |
+| RCI (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.17491) | - | - | - | - | - |
+| Reflexion.1 (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - | - |
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |------------- |
 | External Method | - | - | - | - | - | - | - |
-| Reflexion.2 (2023) | Fair-Asym | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - | - |
-| Reflexion.3 (2023) | Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - | - |
-| Self-Debug (2024) | Fair-Asym | [arXiv](https://arxiv.org/abs/2304.05128) | - | - | - | - | - |
-| CRITIC (2024) | Fair-Asym | [arXiv](https://arxiv.org/abs/2305.11738) | - | - | - | - | - |
-| RARR (2023) | UnfairAsym | [arXiv](https://arxiv.org/abs/2210.08726) | - | - | - | - | - |
+| Reflexion.2 (2023) | (Chaoran Hu)Fair-Asym | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - | - |
+| Reflexion.3 (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - | - |
+| Self-Debug (2024) | (Tianhe Gu)Fair-Asym | [arXiv](https://arxiv.org/abs/2304.05128) | - | - | - | - | - |
+| CRITIC (2024) | (Tianhe Gu)Fair-Asym | [arXiv](https://arxiv.org/abs/2305.11738) | - | - | - | - | - |
+| RARR (2023) | (Tianhe Gu)UnfairAsym | [arXiv](https://arxiv.org/abs/2210.08726) | - | - | - | - | - |
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |------------- |
 | Fine-tuning Method | - | - |  - | - | - | - | - |
-| Self-Critique (2022) | Fair-Asym | [arXiv](https://arxiv.org/abs/2206.05802) | - | - | - | - | - |
-| SelFee (2023) | Fair-Asym | [blogpost](https://lklab.kaist.ac.kr/SelFee/) | - | - | - | - | - |
-| Baldur (2023) | Fair-Asym | [arXiv](https://arxiv.org/abs/2303.04910) | - | - | - | - | - |
-| REFINER (2023) | Cross-Model | [arXiv](https://arxiv.org/abs/2304.01904) | - | - | - | - | - |
-| RL4F (2023) | Cross-Model | [arXiv](https://arxiv.org/abs/2305.08844) | - | - | - | - | - |
-| Self-Correction (2023) | Cross-Model | [arXiv](https://arxiv.org/abs/2211.00053) | - | - | - | - | - |
+| Self-Critique (2022) | (Ruihang Zhang)Fair-Asym | [arXiv](https://arxiv.org/abs/2206.05802) | - | - | - | - | - |
+| SelFee (2023) | (Ruihang Zhang)Fair-Asym | [blogpost](https://lklab.kaist.ac.kr/SelFee/) | - | - | - | - | - |
+| Baldur (2023) | (Ruihang Zhang)Fair-Asym | [arXiv](https://arxiv.org/abs/2303.04910) | - | - | - | - | - |
+| REFINER (2023) | (Ruihan Gong)Cross-Model | [arXiv](https://arxiv.org/abs/2304.01904) | - | - | - | - | - |
+| RL4F (2023) | (Ruihan Gong)Cross-Model | [arXiv](https://arxiv.org/abs/2305.08844) | - | - | - | - | - |
+| Self-Correction (2023) | (Ruihan Gong)Cross-Model | [arXiv](https://arxiv.org/abs/2211.00053) | - | - | - | - | - |
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |------------- |
 | Cannot (2023) | Intrinsic | [arXiv](https://arxiv.org/abs/2310.01798) | Reasoning, QA | GSM8K, CommonSenseQA, HotpotQA | GPT-3.5, GPT-4, Llama-2, GPT-4-Turbo | [代码仓库](https://github.com/Mr-Tieguigui/Self-correction-Papers/) | 192 |
 
