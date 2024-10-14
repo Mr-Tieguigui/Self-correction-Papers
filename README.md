@@ -77,7 +77,7 @@
 | RL4F (2023) | Cross-Model | [arXiv](https://arxiv.org/abs/2305.08844) | - | - | - | - | - |
 | Self-Correction (2023) | Cross-Model | [arXiv](https://arxiv.org/abs/2211.00053) | - | - | - | - | - |
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |------------- |
-| Cannot (2023) | Intrinsic | [arXiv](https://arxiv.org/abs/2310.01798) | - | - | - | - | - |
+| Cannot (2023) | Intrinsic | [arXiv](https://arxiv.org/abs/2310.01798) | Reasoning, QA | GSM8K, CommonSenseQA, HotpotQA | GPT-3.5, GPT-4, Llama-2, GPT-4-Turbo | [代码仓库](https://github.com/Mr-Tieguigui/Self-correction-Papers/) | 192 |
 
 
 
