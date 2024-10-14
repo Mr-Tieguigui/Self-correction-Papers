@@ -55,21 +55,21 @@
 ()
 | Method  | Category | Link | Task | Dataset | Model | Open address | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| - |Intrinsic| - | - | - | - | - |
+| Intrinsic Method | - | - | - | - | - | - |
 | CoVe (2023) | Intrinsic | [arXiv](https://arxiv.org/abs/2309.11495) | - | - | - | - |
 | CAI Revisions (2022) | Intrinsic | [arXiv](https://arxiv.org/abs/2212.08073) | - | - | - | - |
 | Self-Refine (2023) | Intrinsic | [arXiv](https://arxiv.org/abs/2303.17651) | - | - | - | - |
 | RCI (2023) | Oracle | [arXiv](https://arxiv.org/abs/2303.17491) | - | - | - | - |
 | Reflexion.1 (2023) | Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - |
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |
-| - |External| - |
+| External Method | - | - | - | - | - | - |
 | Reflexion.2 (2023) | Fair-Asym | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - |
 | Reflexion.3 (2023) | Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - |
 | Self-Debug (2024) | Fair-Asym | [arXiv](https://arxiv.org/abs/2304.05128) | - | - | - | - |
 | CRITIC (2024) | Fair-Asym | [arXiv](https://arxiv.org/abs/2305.11738) | - | - | - | - |
 | RARR (2023) | UnfairAsym | [arXiv](https://arxiv.org/abs/2210.08726) | - | - | - | - |
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |
-| - | Fine-tuning| - |
+| Fine-tuning Method | - | - |  - | - | - | - |
 | Self-Critique (2022) | Fair-Asym | [arXiv](https://arxiv.org/abs/2206.05802) | - | - | - | - |
 | SelFee (2023) | Fair-Asym | [blogpost](https://lklab.kaist.ac.kr/SelFee/) | - | - | - | - |
 | Baldur (2023) | Fair-Asym | [arXiv](https://arxiv.org/abs/2303.04910) | - | - | - | - |
