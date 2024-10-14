@@ -47,7 +47,7 @@
 | Large Language Models have Intrinsic Self-Correction Ability (UB 2024)| | [arXiv](https://arxiv.org/abs/2406.15673) |
 | On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept (MSU 2024) | | [arXiv](https://arxiv.org/abs/2406.02378) |
 | SELF-[IN]CORRECT LLMs Struggle with Discriminating Self-Generated Responses (JHU 2024)  |  | [arXiv](https://arxiv.org/pdf/2404.04298v3)|
-| Fine-Tuning with Divergent Chains of Thought Boosts Reasoning Through Self-Correction in Language Models ()| | [arXiv](https://arxiv.org/abs/2407.03181) |
+| Fine-Tuning with Divergent Chains of Thought Boosts Reasoning Through Self-Correction in Language Models (2024)| | [arXiv](https://arxiv.org/abs/2407.03181) |
 
 
 
