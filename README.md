@@ -16,6 +16,7 @@
 ## Reasoning Elevation
 | Paper  | Description | Link |
 | ------------- | ------------- | -------------|
+| LILA: A Unified Benchmark for Mathematical Reasoning (ASU 2022) | | [EMNLP](https://arxiv.org/pdf/2210.17517) |
 | RATT: A Thought Structure for Coherent and Correct LLM Reasoning (PSU 2024) | | [arXiv](https://arxiv.org/abs/2406.02746) |
 | Training Language Models to Self-Correct via Reinforcement Learning (Google 2024) |  | [arXiv](https://arxiv.org/pdf/2409.12917)|
 | LLMs cannot find reasoning errors, but can correct them given the error location (Cambridge 2024) | | [ACL](https://arxiv.org/abs/2311.08516) |
