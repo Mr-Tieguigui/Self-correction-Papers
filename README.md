@@ -61,11 +61,11 @@
 | CAI Revisions (2022) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2212.08073) | - | - | - | - | - |
 | Self-Refine (2023) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2303.17651) | - | - | - | - | - |
 | RCI (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.17491) | Reasoning, Computer tasks | SingleEq, AddSub, MultiArith, AQuA, GSM8K, SVAMP, AQuA, CommonSenseQA, StrategyQA, MiniWoB++  | GPT-3, GPT-3.5-turbo, GPT-4, InstructGPT-3 | [代码仓库](https://github.com/posgnu/rci-agent) | 229 |
-| Reflexion.1 (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - | - |
+| Reflexion.1 (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | Decision-making | ALFWorld | GPT-3 | [代码仓库](https://github.com/noahshinn/reflexion) | 639 |
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |------------- |
 | External Method | - | - | - | - | - | - | - |
-| Reflexion.2 (2023) | (Chaoran Hu)Fair-Asym | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - | - |
-| Reflexion.3 (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - | - |
+| Reflexion.2 (2023) | (Chaoran Hu)Fair-Asym | [arXiv](https://arxiv.org/abs/2303.11366) | Reasoning | HotPotQA | - | [代码仓库](https://github.com/noahshinn/reflexion) | 639 |
+| Reflexion.3 (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | Programming | MBPP, HumanEval, LeetcodeHardGym | MultiPL-E, text-davinci-003, GPT-3.5-turbo, GPT-4 | [代码仓库](https://github.com/noahshinn/reflexion) | 639 |
 | Self-Debug (2024) | (Tianhe Gu)Fair-Asym | [arXiv](https://arxiv.org/abs/2304.05128) | text-to-SQL generation, code translation, text-to-Python generation | Spider benchmark,TransCoder, MBPP | code-davinci-002(Codex), gpt-3.5-turbo, gpt-4,StarCoder with15.5B | None | 381 |
 | CRITIC (2024) | (Tianhe Gu)Fair-Asym | [arXiv](https://arxiv.org/abs/2305.11738) | free-form QA, mathematical program synthesis, toxicity reduction | AmbigNQ, TriviaQA, HotpotQA | ChatGPT, Text-Davinci-003, open-sourceLLaMA-2 variants (7B, 13B, and 70B) | [repo](https://github.com/microsoft/ProphetNet/tree/master) | 147 |
 | RARR (2023) | (Tianhe Gu)UnfairAsym | [arXiv](https://arxiv.org/abs/2210.08726) | Measuring attribution，Measuring preservation | QReCC, StrategyQA | PaLM (540B), GPT-3 text-davinci-002, EFEC, LaMDA | [repo](https://github.com/anthonywchen/RARR) | 177 |
