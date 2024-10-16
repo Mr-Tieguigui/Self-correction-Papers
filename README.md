@@ -66,9 +66,9 @@
 | External Method | - | - | - | - | - | - | - |
 | Reflexion.2 (2023) | (Chaoran Hu)Fair-Asym | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - | - |
 | Reflexion.3 (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | - | - | - | - | - |
-| Self-Debug (2024) | (Tianhe Gu)Fair-Asym | [arXiv](https://arxiv.org/abs/2304.05128) | - | - | - | - | - |
-| CRITIC (2024) | (Tianhe Gu)Fair-Asym | [arXiv](https://arxiv.org/abs/2305.11738) | - | - | - | - | - |
-| RARR (2023) | (Tianhe Gu)UnfairAsym | [arXiv](https://arxiv.org/abs/2210.08726) | - | - | - | - | - |
+| Self-Debug (2024) | (Tianhe Gu)Fair-Asym | [arXiv](https://arxiv.org/abs/2304.05128) | text-to-SQL generation, code translation, text-to-Python generation | Spider benchmark,TransCoder, MBPP | code-davinci-002(Codex), gpt-3.5-turbo, gpt-4,StarCoder with15.5B | None | 381 |
+| CRITIC (2024) | (Tianhe Gu)Fair-Asym | [arXiv](https://arxiv.org/abs/2305.11738) | free-form QA, mathematical program synthesis, toxicity reduction | AmbigNQ, TriviaQA, HotpotQA | ChatGPT, Text-Davinci-003, open-sourceLLaMA-2 variants (7B, 13B, and 70B) | [repo](https://github.com/microsoft/ProphetNet/tree/master) | 147 |
+| RARR (2023) | (Tianhe Gu)UnfairAsym | [arXiv](https://arxiv.org/abs/2210.08726) | Measuring attribution，Measuring preservation | QReCC, StrategyQA | PaLM (540B), GPT-3 text-davinci-002, EFEC, LaMDA | [repo](https://github.com/anthonywchen/RARR) | 177 |
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |------------- |
 | Fine-tuning Method | - | - |  - | - | - | - | - |
 | Self-Critique (2022) | (Ruihang Zhang)Fair-Asym | [arXiv](https://arxiv.org/abs/2206.05802) | - | - | - | - | - |
