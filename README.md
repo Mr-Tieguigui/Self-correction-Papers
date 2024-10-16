@@ -73,8 +73,7 @@
 | Self-Critique (2022) | (Ruihang Zhang)Fair-Asym | [arXiv](https://arxiv.org/abs/2206.05802) | - | - | - | - | - |
 | SelFee (2023) | (Ruihang Zhang)Fair-Asym | [blogpost](https://lklab.kaist.ac.kr/SelFee/) | - | - | - | - | - |
 | Baldur (2023) | (Ruihang Zhang)Fair-Asym | [arXiv](https://arxiv.org/abs/2303.04910) | - | - | - | - | - |
-| REFINER (2023) | (Ruihan Gong)Cross-Model | [arXiv](https://arxiv.org/abs/2304.01904) | MWP, SNLR, MS | MAWPs, SVAMP, GSM8K | UQA-base, UQA-large, GPT-3.5-
-text-DaVinci-003, REFINER | [CODE](https://github.com/debjitpaul/refiner) | 103 |
+| REFINER (2023) | (Ruihan Gong)Cross-Model | [arXiv](https://arxiv.org/abs/2304.01904) | MWP, SNLR, MS | MAWPs, SVAMP, GSM8K | UQA-base, UQA-large, GPT-3.5-text-DaVinci-003, REFINER | [CODE](https://github.com/debjitpaul/refiner) | 103 |
 | RL4F (2023) | (Ruihan Gong)Cross-Model | [arXiv](https://arxiv.org/abs/2305.08844) | Alphabetization | Interscript | GPT-3 | [CODE](https://github.com/feyzaakyurek/rl4f) | 69 |
 | Self-Correction (2023) | (Ruihan Gong)Cross-Model | [arXiv](https://arxiv.org/abs/2211.00053) | mathematical program synthesis, lexically-constrained generation,  toxicity control | MultiArith, AddSub, SingleOp, SVAMP, GSM8k | GPT-Neo 1.3B, GPT-3, GPT-2 | - | 30 |
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |------------- |
