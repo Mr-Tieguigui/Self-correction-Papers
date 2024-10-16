@@ -61,7 +61,7 @@
 | CAI Revisions (2022) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2212.08073) | - | - | - | - | - |
 | Self-Refine (2023) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2303.17651) | - | - | - | - | - |
 | RCI (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.17491) | Reasoning, Computer tasks | SingleEq, AddSub, MultiArith, AQuA, GSM8K, SVAMP, AQuA, CommonSenseQA, StrategyQA, MiniWoB++  | GPT-3, GPT-3.5-turbo, GPT-4, InstructGPT-3 | [代码仓库](https://github.com/posgnu/rci-agent) | 229 |
-| Reflexion.1 (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | Decision-making | ALFWorld | GPT-3 | [代码仓库](https://github.com/noahshinn/reflexion) | 639 |
+| Reflexion.1 (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | Decision-making | ALFWorld, WebShop | GPT-3 | [代码仓库](https://github.com/noahshinn/reflexion) | 639 |
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |------------- |
 | External Method | - | - | - | - | - | - | - |
 | Reflexion.2 (2023) | (Chaoran Hu)Fair-Asym | [arXiv](https://arxiv.org/abs/2303.11366) | Reasoning | HotPotQA | - | [代码仓库](https://github.com/noahshinn/reflexion) | 639 |
