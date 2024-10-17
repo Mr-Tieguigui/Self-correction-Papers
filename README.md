@@ -58,8 +58,8 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
 | Intrinsic Method | - | - | - | - | - | - |
 | CoVe (2023) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2309.11495) | - | - | PaLM 540B | - | 202 |
-| CAI Revisions (2022) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2212.08073) | - | - | - | - | 952 |
-| Self-Refine (2023) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2303.17651) | - | - | - | - | 789 |
+| CAI Revisions (2022) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2212.08073) | - | - | 52B | - | 952 |
+| Self-Refine (2023) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2303.17651) | - | - | GPT-3.5, GPT-4 | - | 789 |
 | RCI (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.17491) | Reasoning, Computer tasks | SingleEq, AddSub, MultiArith, AQuA, GSM8K, SVAMP, AQuA, CommonSenseQA, StrategyQA, MiniWoB++  | GPT-3, GPT-3.5-turbo, GPT-4, InstructGPT-3 | [代码仓库](https://github.com/posgnu/rci-agent) | 229 |
 | Reflexion.1 (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | Decision-making | ALFWorld, WebShop | GPT-3 | [代码仓库](https://github.com/noahshinn/reflexion) | 639 |
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |------------- |
