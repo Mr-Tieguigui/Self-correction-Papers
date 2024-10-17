@@ -92,13 +92,12 @@
 
 
 ## Task
-| Task  | Description | Link |
+| Task  | Dataset | Link |
 | ------------- | ------------- | -------------|
-| Reasoning | | |
-| Knowledge | | |
-| Context-based Generation| | |
-| Oracle information| | |
-| Others| | |
+| Math |  | |
+| Commonsense | | |
+| Symbolic | | |
+| Coding | | | 
 
 
 
