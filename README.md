@@ -59,7 +59,7 @@
 | Intrinsic Method | - | - | - | - | - | - |
 | CoVe (2023) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2309.11495) | MultiSpanQA， longform text generation | Natural Questions， | Llama 65B | [代码仓库](https://github.com/lastmile-ai/aiconfig/blob/main/cookbooks/Chain-of-Verification/README.md?plain=1) | 202 |
 | CAI Revisions (2022) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2212.08073) | QA,textbased conversations | [HHH](https://paperswithcode.com/dataset/hhh) | 52B | [代码仓库](https://github.com/anthropics/ConstitutionalHarmlessnessPaper?utm_source=catalyzex.com) | 952 |
-| Self-Refine (2023) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2303.17651) | - | - | GPT-3.5, GPT-4 | - | 789 |
+| Self-Refine (2023) | (Junran Wu)Intrinsic | [arXiv](https://arxiv.org/abs/2303.17651) | - | - | GPT-3.5, GPT-4 | [代码仓库](https://github.com/madaan/self-refine) | 789 |
 | RCI (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.17491) | Reasoning, Computer tasks | SingleEq, AddSub, MultiArith, AQuA, GSM8K, SVAMP, AQuA, CommonSenseQA, StrategyQA, MiniWoB++  | GPT-3, GPT-3.5-turbo, GPT-4, InstructGPT-3 | [代码仓库](https://github.com/posgnu/rci-agent) | 229 |
 | Reflexion.1 (2023) | (Chaoran Hu)Oracle | [arXiv](https://arxiv.org/abs/2303.11366) | Decision-making | ALFWorld, WebShop | GPT-3 | [代码仓库](https://github.com/noahshinn/reflexion) | 639 |
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |------------- |
