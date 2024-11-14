@@ -80,7 +80,6 @@
 | Self-Correction (2023) | (Ruihan Gong)Cross-Model | [arXiv](https://arxiv.org/abs/2211.00053) | mathematical program synthesis, lexically-constrained generation,  toxicity control | MultiArith, AddSub, SingleOp, SVAMP, GSM8k | GPT-Neo 1.3B, GPT-3, GPT-2 | - | 30 |
 | Volcano (2024) | - | [arXiv](https://arxiv.org/pdf/2311.07362) | - | - | GPT-3 | [CODE](https://github.com/kaistAI/Volcano) | 27 |
 | Re3 (2022) | - | [arXiv](https://arxiv.org/abs/2210.06774) | - | - | GPT-3 | [CODE](https://github.com/yangkevin2/emnlp22-re3-story-generation) | 159 |
-
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |------------- |
 | Cannot (2023) | Intrinsic | [arXiv](https://arxiv.org/abs/2310.01798) | Reasoning, QA | GSM8K, CommonSenseQA, HotpotQA | GPT-3.5, GPT-4, Llama-2, GPT-4-Turbo | [代码仓库](https://github.com/Mr-Tieguigui/Self-correction-Papers/) | 192 |
 
